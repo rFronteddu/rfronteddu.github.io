@@ -35,6 +35,12 @@ plugins:
 minima:
    skin: auto
 
+feed:
+  title: "Life In A Shell Feed"
+  description: "Subscribe to my blog's updates via RSS"
+  url: "https://rfronteddu.github.io/rss.xml"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
