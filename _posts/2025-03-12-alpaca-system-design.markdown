@@ -17,6 +17,11 @@ The project began as a simple prototype, where users could upload a CSV file con
 
 Our team consisted of me as the tech lead, my supervisor as the subject matter expert, and a machine learning engineer who focused on prompt refining and continuous model evaluation. After securing initial funding, the project scope expanded to include more robust features, such as job scheduling (to handle long processing times) and enhanced security measures to meet higher operational standards.
 
+The figure below shows ALPACA UI written using GRADIO
+
+![ALPACA UI](https://github.com/rFronteddu/rfronteddu.github.io/blob/main/img/alpaca_ui.png?raw=true)
+
+
 ### ALPACA System Design
 
 ![ALPACA System Design](https://github.com/rFronteddu/rfronteddu.github.io/blob/main/img/alpaca_arch_1.png?raw=true)
