@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 
 minima:
-   skin: auto
+   skin: dark
 
 feed:
   title: "Life In A Shell Feed"
