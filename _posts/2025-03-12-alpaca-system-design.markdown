@@ -19,7 +19,7 @@ Our team consisted of me as the tech lead, my supervisor as the subject matter e
 
 ### ALPACA System Design
 
-![ALPACA System Design](https://github.com/rFronteddu/rfronteddu.github.io/blob/main/img/alpaca_arch_1.png)
+![ALPACA System Design](https://github.com/rFronteddu/rfronteddu.github.io/blob/main/img/alpaca_arch_1.png?raw=true)
 
 The figure above shows ALPACA architecture.
 
