@@ -7,7 +7,7 @@ categories: blog
 
 ## Introduction
 
-Welcome to my first blog post! This is an example where I will walk you through adding figures and describing what's going on.
+Welcome to my first blog post!
 
 ### What is ALPACA
 
