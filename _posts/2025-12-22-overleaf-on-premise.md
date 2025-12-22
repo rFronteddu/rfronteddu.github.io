@@ -179,6 +179,7 @@ bin/docker-compose exec sharelatex /bin/bash -ce "cd /overleaf/services/web && n
 This gets a little complicate. If you set SMPT users should be able to reset their passwords through the UI.
 
 * First, we need to retrieve a token for the user using its email (in the example test@example.org):
+
 ```
 sudo bin/docker-compose exec sharelatex /bin/bash -ce "cd /overleaf/services/web && node modules/server-ce-scripts/scripts/create-user --email=test@example.org"
 ...
@@ -189,6 +190,7 @@ Please visit the following URL to set a password for test@example.org and log in
 ```
 
 We can then give the user the following link to reset their password:
+
 ```
 https://www.example.com/user/password/set?passwordResetToken=<token>&user_id=<user-id>
 ```
